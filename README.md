@@ -12,3 +12,10 @@
 - ⚡ Fun fact: I’m most scared of dying without living.
 
 
+<img src ="https://github-readme-stats.vercel.app/api?username=stali1234&&show_icons=true&title_color=fffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stali1234&theme=dark&hide_langs_below%20=%201" />
+
+
