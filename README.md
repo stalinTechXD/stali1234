@@ -2,7 +2,7 @@
 
  
 
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on c# & Mern.
 - 🌱 I’m currently learning data-strucutres-algorithms
 - 👯 I’m looking to collaborate on cf website
 - 🤔 I’m looking for help with ...
